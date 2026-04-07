@@ -1,0 +1,14 @@
+fastapi==0.109.0
+uvicorn==0.27.0
+streamlit==1.31.0
+langchain==0.1.0
+langchain-community==0.0.10
+langchain-huggingface==0.0.1
+faiss-cpu==1.7.4
+pypdf==4.0.1
+python-docx==1.1.0
+requests==2.31.0
+sentence-transformers==2.3.1
+beautifulsoup4==4.12.3
+lxml==5.1.0
+python-multipart==0.0.6
